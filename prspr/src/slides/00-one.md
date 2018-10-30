@@ -1,8 +1,8 @@
 # PRSPR.network
 
 
-- [Emerging Tech Framework To Unite Society](//prspr.network/pdf/emerging-tech-framework-to-unite-society.pdf)
+- [Optimize for positive social impact](//prsprnetwork.pdf)
 
 <img src="//prspr.network/pdf/emerging_1.jpg"
-     alt="Emerging Tech Framework to Unite Society"
+     alt="Optimize for social cohesion instead of bottom lines"
      style="float: center; margin-right: 10px;" />

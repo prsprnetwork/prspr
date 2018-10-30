@@ -11,9 +11,12 @@ $ npm install
 
 # start presentation & have fun
 $ npm run start
-Build
+
+### Build
 # build a standalone version of presentation into dist folder
 $ npm run build
-Deploy
+
+
+### Deploy
 # build the standalone version and deploys it to github pages
 $ npm run deploy
